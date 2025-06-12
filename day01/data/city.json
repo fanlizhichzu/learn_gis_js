@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北京",
+        "population": 21710000,
+        "GDP": 36102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海",
+        "population": 24180000,
+        "GDP": 38701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      }
+    }
+  ]
+}
